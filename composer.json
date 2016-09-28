@@ -1,0 +1,12 @@
+{
+    "name": "whsuite/addon-uploader",
+    "type": "whsuite-addon",
+    "description": "Uploader plugin for use within WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ]
+}

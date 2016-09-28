@@ -1,0 +1,30 @@
+.uploader { margin-top: 25px; }
+
+.uploader .clone-row { overflow: hidden; margin-bottom: 10px; }
+.uploader .clone-row .form-group { overflow: hidden; float: left; width: 40%; }
+.uploader .clone-row .delete-item {
+    float: left;
+    display: block;
+    width: 22px;
+    height: 22px;
+    margin: 5px 0 0 0;
+
+    background: url('../img/delete.png') no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    transition: none !important;
+}
+.uploader .clone-row .delete-item:hover { background-position: 0 -22px; }
+
+.uploader .clone-row .form-group label { float: left; margin-right: 10px; }
+.uploader .clone-row .form-group input { float: left; width: 65%; font-size: 13px; }
+
+.uploader .add-item {
+
+    background: url('../img/add.png') no-repeat;
+    padding: 0 0 0 20px;
+}
+
+.disabled-row { display: none; }
+.clone-row { margin-bottom: 5px; }

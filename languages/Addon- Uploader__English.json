@@ -1,0 +1,29 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "uploader",
+    "Strings": [
+        {
+            "slug": "add_new_file",
+            "text": "Add New File"
+        },
+        {
+            "slug": "attach_files",
+            "text": "Attach Files"
+        },
+        {
+            "slug": "existing_files",
+            "text": "Existing Files"
+        },
+        {
+            "slug": "choose_file",
+            "text": "Choose File"
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}
